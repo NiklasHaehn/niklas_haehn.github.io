@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Niklas Hähn"
-description              : "Post-Graduate Research Assistant/ Pre-Doc @Yale University "
+description              : "Personal Hompage of Niklas Haehn"
 repository               : "NiklasHaehn/niklas_haehn.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Niklas Hähn"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "Post-Graduate Research Assistant/ Pre-Doc @Yale University"
+  location         : "New Haven, United States"
+  employer         : "Yale University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : 
+  email            : "niklas.haehn@yale.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : linkedin.com/in/niklas-hähn-244737207
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://x.com/niklas_haehn
   vine             :
   weibo            :
   xing             :
